@@ -1,0 +1,4 @@
+module WaitfreeMpscQueue {
+    header "../mpscq.h"
+    export *
+}
